@@ -1,0 +1,24 @@
+animodels (                                                             
+slider = blend\slider\slider%.gl3dc                                       
+window = blend\window\window%.gl3dc                                          
+knot = blend\knot\knot%.gl3dc                                          
+)                                                                       
+controlclass slider (                                                   
+slider = ,open,1                                               
+slider = ,open,0                                               
+slider = ,show,1                                               
+slider = ,show,0                                               
+...                                                                     
+)                                                                       
+controlclass window (                                                    
+window = ,open,1                                               
+window = ,open,0                                               
+window = ,show,1                                               
+window = ,show,0                                               
+)                                                                       
+controlclass knot (                                                    
+knot = ,open,1                                               
+knot = ,open,0                                               
+knot = ,show,1                                               
+knot = ,show,0                                               
+)                                                                       
